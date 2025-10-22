@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python | C++ | C#  
+- **Languages:** Python | C++ | C#  | dart |java
 - **Frameworks:** Flutter | Firebase | .NET  
 - **Tools:** Power BI | Git | VS Code | Jupyter  
 - **Skills:** Data Analysis | AI & Machine Learning | Problem Solving  
